@@ -1,0 +1,93 @@
+body {
+    background-image: url("../images/lightwool.png");
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #777777;
+    font-size: 18px;
+    line-height: 200%;
+}
+
+.navcustom {
+    background-color: #ffffff;
+    min-height: 70px;
+    border-bottom: 2px solid #cccccc;
+    margin-bottom: 30px;
+    padding: 0px;
+}
+
+.container {
+    max-width: 960px;
+}
+
+.logo {
+    height: 100%;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 2px;
+    padding: 20px;
+    float: left;
+}
+
+.navbar-toggler {
+    margin-right: 20px;
+}
+
+.nav-item {
+    margin: 10px;
+}
+
+.nav-link {
+    font-size: 16px;
+    word-spacing: 20px;
+    font-weight: bold;
+}
+
+section {
+    background-color: #ffffff;
+    padding: 30px;
+    border: 1px solid #dddddd;
+    margin-bottom: 100px;
+}
+
+.profilepic {
+    width: 100%;
+    float: left;
+    margin: 0px 30px 20px 0px;
+}
+
+
+h1, h2, h3, h3, h4, h5 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 22px;
+    color: #4aaaa5;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+a {
+ color: #4aaaa5;
+ text-decoration: none;   
+}
+
+a:hover {
+    text-decoration: underline;   
+   }
+
+.greyhr {
+    height: 3px;
+    background-color: #eeeeee;
+    border: none;
+    margin: 20px 0px;
+}
